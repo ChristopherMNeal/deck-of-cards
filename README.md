@@ -1,8 +1,8 @@
-# _ _
+# _Deck of Cards_
 
-#### By _**Christopher Neal &**_
+#### By _**Christopher Neal & Jeff Lai**_
 
-#### _ _
+#### _Deck of Cards_
 
 ## Technologies Used
 
@@ -14,7 +14,7 @@
 
 ## Description
 
-_This page practices_
+_This page practices arrays by creating a full virtual deck of cards using nested forEach() methods on suit and rank arrays._
 
 ## Setup/Installation Requirements
 
@@ -29,4 +29,4 @@ _None_
 
 _[MIT](https://opensource.org/licenses/MIT)_
 
-Copyright (c) _21 October 2021_ _Christopher Neal &_
+Copyright (c) _25 October 2021_ _Christopher Neal & Jeff Lai_
